@@ -1,2 +1,8 @@
 # NPM deps
 node_modules/
+
+# Sensible data
+*.local
+
+# Output
+dist/
